@@ -1,2 +1,4 @@
-build/.*
+build/
+logs/
+pcaps/
 .DS_Store
